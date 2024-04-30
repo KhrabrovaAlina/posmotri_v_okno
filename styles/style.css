@@ -16,6 +16,7 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  align-items: center;
 }
 
 h1,
@@ -40,7 +41,7 @@ ol {
 Разметка сайта */
 
 .content {
-  inline-size: 100%;
+  box-sizing: border-box;
   display: flex;
   flex-direction: row;
   width: 1140px;
