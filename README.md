@@ -1,4 +1,4 @@
-Cсылка на репозиторий в github: https://github.com/KhrabrovaAlina/posmotri_v_okno
+Cсылка на репозиторий в github: https://github.com/KhrabrovaAlina/posmotri_v_okno.git
 
 Проект "Посмотри в окно"
 
