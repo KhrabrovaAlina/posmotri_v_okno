@@ -8,4 +8,4 @@ html-страница сайта (index.html).
 
 Проектная работа заключалась в стилизации сайта с помощью style.css
 
-Cсылка: https://github.com/KhrabrovaAlina/posmotri_v_okno
+Cсылка на репозиторий: https://github.com/KhrabrovaAlina/posmotri_v_okno
